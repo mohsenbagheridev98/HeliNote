@@ -8,12 +8,12 @@ plugins {
 
 android {
     namespace = "mohsen.helinote"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "mohsen.helinote"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
@@ -48,8 +48,10 @@ android {
 
 dependencies {
     implementation("androidx.compose.material3:material3:1.3.2")
+    //noinspection UseTomlInstead
     implementation("androidx.compose.material3:material3-window-size-class:1.3.2")
-    implementation("androidx.core:core-ktx:1.13.0")
+    //noinspection UseTomlInstead
+    implementation("androidx.core:core-ktx:1.17.0")
     implementation(platform("org.jetbrains.kotlin:kotlin-bom:2.0.21"))
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.2")
     implementation("androidx.activity:activity-compose:1.10.1")
