@@ -2,7 +2,7 @@
 
 A simple and elegant Heli-Note Android application built using **Jetpack Compose**, with support for **reminders** and **local notifications**.
 
-This project was built as part of a technical interview assessment. It showcases best practices in architecture (MVI), modular Android app development, and Compose-based UI design.
+This project was built as part of a technical interview assessment. It showcases best practices in architecture (MVVM), modular Android app development, and Compose-based UI design.
 
 ---
 
@@ -61,21 +61,15 @@ This app follows the **Model-View-ViewModel (MVVM)** architecture for clear sepa
 
 ## 📸 Screenshots
 
-_Include these images to showcase the app flow visually_
-
 | Notes Screen | Add/Edit Notes Screen | Set Reminder |
 |----------|---------------|--------------|
-| ![Add Note](screenshots/add_note.png) | ![Set Reminder](screenshots/set_reminder.png) | ![Notification](screenshots/notification.png) |
-
-📁 _Place your screenshots in `/screenshots` or embed remote image URLs._
+| ![Add Note](https://github.com/mohsenbagheridev98/HeliNote/blob/master/ScreenShots/Screen1.png) | ![Set Reminder](https://github.com/mohsenbagheridev98/HeliNote/blob/master/ScreenShots/Screen2.png) | ![Notification](https://github.com/mohsenbagheridev98/HeliNote/blob/master/ScreenShots/Screen3.png) |
 
 ---
 
 ## 🎥 Demo Video
 
-_Include a short video or screen recording showcasing the app — optional but highly recommended._
-
-▶️ [Watch Demo](https://drive.google.com/file/d/1MxNIRXplo0DvahLtHIFSnJW5XX-Grwjw/view?usp=drive_link)
+▶️ [Watch Demo](https://github.com/mohsenbagheridev98/HeliNote/blob/master/ScreenShots/videoshot.mov)
 
 ---
 
@@ -83,10 +77,5 @@ _Include a short video or screen recording showcasing the app — optional but h
 
 You can download the latest build here:
 
-👉 [Download APK](https://github.com/your-username/note-reminder-app/releases)
-
-_Or manually build it using:_
-
-```bash
-./gradlew assembleDebug
+👉 [Download APK](https://github.com/mohsenbagheridev98/HeliNote/blob/master/Releases/HeliNote.apk)
 
