@@ -1,4 +1,4 @@
-# 📝 Note Reminder App
+# 📝 Heli Note
 
 A simple and elegant Heli-Note Android application built using **Jetpack Compose**, with support for **reminders** and **local notifications**.
 
