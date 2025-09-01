@@ -94,8 +94,8 @@ fun ContentPartScaffold(
             verticalAlignment = Alignment.CenterVertically
         ) {
             Text(
-                text = "Your Note",
-                style = MaterialTheme.typography.bodyMedium
+                text = "Heli Note",
+                style = MaterialTheme.typography.titleMedium
             )
 
             IconButton(
